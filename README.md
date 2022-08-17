@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Sveltekit-Recipe
 =======
 # create-svelte
@@ -39,4 +38,3 @@ npm run build
 You can preview the production build with `npm run preview`.
 
 > To deploy your app, you may need to install an [adapter](https://kit.svelte.dev/docs/adapters) for your target environment.
->>>>>>> 8dd2ba4debc2d9299a7f840f9a8169c959120013
